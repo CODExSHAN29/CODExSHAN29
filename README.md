@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @CODExSHAN29
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+**👋 Hey there! I'm Shan**  
+💻 Backend Development Student | 🌱 Learning & Building  
+
+🔹 Second-semester backend dev student  
+🔹 Passionate about clean code and scalable systems  
+🔹 Exploring databases, APIs, and server-side technologies  
+
+🚀 Always learning & open to collaborations!  
+
+📫 Connect with me: [codexshan09@gmail.com]  
+
 
 <!---
 CODExSHAN29/CODExSHAN29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
